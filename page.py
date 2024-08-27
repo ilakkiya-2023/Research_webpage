@@ -153,7 +153,7 @@ FLI1 Domain: The FLI1 portion includes an ETS (E-twenty-six) DNA-binding domain 
 The sequence is not fixed, as different variants of the fusion gene can occur, leading to different fusion protein sequences. However, the most common variant includes the first seven exons of the EWSR1 gene fused to exons 6-9 of the FLI1 gene.
     """, unsafe_allow_html=True)
     
-    st.image("WhatsApp Image 2024-08-27 at 7.44.41 PM (3).jpeg ", use_column_width=True)
+    st.image("E:/mallene_project/Research_webpage/WhatsApp Image 2024-08-27 at 7.44.41 PM (3).jpeg ", use_column_width=True)
 
 # Function to display Content4 page (Inhibitors)
 def content4_page():
@@ -173,7 +173,7 @@ Clinical Status: TK216 has shown promise in early-phase clinical trials, particu
 Mechanism: An inhibitor that disrupts the interaction between EWS-FLI1 and RNA helicase A, thereby reducing the oncogenic activity of the fusion protein. YK-4-279 also induces apoptosis in Ewing sarcoma cells.
 Clinical Status: YK-4-279 is still in preclinical and early clinical stages, but it has shown potential as a targeted therapy.
 """)
-    st.image("WhatsApp Image 2024-08-27 at 7.37.26 PM.jpeg ", use_column_width=True)
+    st.image("E:/mallene_project/Research_webpage/WhatsApp Image 2024-08-27 at 7.37.26 PM.jpeg", use_column_width=True)
     st.markdown("""
 **Trabectedin:**
 
