@@ -153,8 +153,8 @@ FLI1 Domain: The FLI1 portion includes an ETS (E-twenty-six) DNA-binding domain 
 The sequence is not fixed, as different variants of the fusion gene can occur, leading to different fusion protein sequences. However, the most common variant includes the first seven exons of the EWSR1 gene fused to exons 6-9 of the FLI1 gene.
     """, unsafe_allow_html=True)
     
-    st.image("WhatsApp Image 2024-08-27 at 7.44.41 PM (3).jpeg ", use_column_width=True)
-
+    # st.image("WhatsApp Image 2024-08-27 at 7.44.41 PM (3).jpeg ", use_column_width=True)
+    st.image("WhatsApp Image 2024-08-27 at 7.21.51 PM.jpeg", use_column_width=True)
 # Function to display Content4 page (Inhibitors)
 def content4_page():
     st.title("Inhibitors of EWS-FLI1 Fusion Protein")
